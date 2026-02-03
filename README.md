@@ -3,8 +3,7 @@
 
 This project is about reconstruction of a dense 3d scene and obtaining 3d point cloud that is ”hole‑free” from distoreded images and depths and calibration data.
 
-Our Flow: Load Data > Undistort RGB > Depth to Metric Conversion
-> Back-projection to 3D > World Transformation > PLY Export.
+Our Flow: Load Data > Undistort RGB > Depth to Metric Conversion > Back-projection to 3D > World Transformation > PLY Export.
 
 
 • Input Data:
